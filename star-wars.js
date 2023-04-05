@@ -28,6 +28,7 @@ const sekcjaKarty = document.querySelector("#wrapper");
 
 const dodajPostac = (postac) => {
      console.log(postac,"123");
+     console.log(9)
      const karta = document.createElement("article");
      karta.classList.add("card");
      console.log(12345);
